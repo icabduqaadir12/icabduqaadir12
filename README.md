@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Cabdu Qaadir Ibraahim</h1>
+<h3 align="center">Aspiring Frontend Developer | Learning React & Full Stack (MERN)</h3>
 
-<!--
-**icabduqaadir12/icabduqaadir12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently learning **React, JavaScript, and full-stack web development**
+- 🛠️ Building projects to improve my frontend skills
+- 🧠 Passionate about clean code, responsive design, and user experience
+- 🚀 I aim to become a professional full-stack developer
+
+---
+
+### 🛠️ Tech Stack
+
+- 💻 HTML, CSS, JavaScript
+- ⚛️ React (learning)
+- 🌐 Git & GitHub
+- 🖥️ VS Code
+
+---
+
+### 📂 Featured Projects
+
+- 📨 [Join Our Newsletter](https://icabduqaadir12.github.io/join-our-newsletter-master/)
+- 🧾 [Minimal Blog Card](https://icabduqaadir12.github.io/Minimal-blog-card-starter-master/)
+- ✅ More coming soon...
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=icabduqaadir12&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+---
+
+### 📫 Connect With Me
+
+- 🌍 Country: Somalia 🇸🇴
+- 📬 Email: **icabduqaadir37@gmail.com**
+- 💼 LinkedIn: https://www.linkedin.com/in/abdukadir-ibrahim-b9669b202/
+
